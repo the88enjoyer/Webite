@@ -1,0 +1,40 @@
+#imgStyle{
+  width: 100px;
+  height: 125px;
+  border: 3px solid black;
+  margin-top: 15px;
+  margin: center;
+  display: flex;
+  justify-content: space-evenly;
+  justify-items: space-evenly;
+}
+#pMargin{
+  border: none;
+  margin-block-end: 10px;
+  margin-block-start: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  justify-items: space-evenly;
+}
+#table1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box{
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+.container{
+  border: 3px solid black;
+}
+.blackBar{
+  border: none;
+  border-top: 2px solid black;
+  width: 80%;
+}
